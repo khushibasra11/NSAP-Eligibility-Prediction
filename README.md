@@ -4,8 +4,8 @@
 This project uses machine learning to predict the appropriate NSAP (National Social Assistance Programme) scheme for applicants based on district-level socio-economic data. The model was built using IBM AutoAI and deployed as a REST API through IBM Cloud's Machine Learning service.
 
 ## Repository Contents
-- ibm_project.pptx – Project presentation
-- ibm_project.pdf – Project report or PDF version of the presentation
+- ibm-project.pptx – Project presentation
+- ibm-project.pdf – Project report or PDF version of the presentation
 
 ## Problem Statement
 Manually verifying and assigning welfare schemes to applicants can lead to delays and errors. This project aims to automate the classification process to help government agencies deliver benefits efficiently and accurately.
